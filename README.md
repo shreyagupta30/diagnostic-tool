@@ -1,4 +1,4 @@
-## Diagnostic Tool for mental health
+# Diagnostic Tool for mental health
 
 ### Inputs
 1. EEG signals
