@@ -36,3 +36,16 @@
 
 #### 12.23/19: Day 4
 1.  Read the documentation of motor tasks dataset and tried to analysis and how to deal with the signals. 
+
+### Working on motor task
+1. Loading and preprocessing of data from mne library
+``` python
+fnames = eegbci.load_data(subject, runs)
+```
+2. Classified the files according to events and added them in a variable ```task```.
+3. Prepared y matrix
+4. Built a CNN model using Tensorflow and keras for multilabel classification.
+
+
+
+
