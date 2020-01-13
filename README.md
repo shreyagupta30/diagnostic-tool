@@ -44,7 +44,13 @@ fnames = eegbci.load_data(subject, runs)
 ```
 2. Classified the files according to events and added them in a variable ```task```.
 3. Prepared y matrix
-4. Built a CNN model using Tensorflow and keras for multilabel classification.
+4. Split the data in train and test sets. 
+5. Built a CNN model using Tensorflow and keras for multilabel classification.
+
+
+### References
+
+1. For understanding dataset: [official documenetation](https://mne.tools/stable/generated/mne.datasets.eegbci.load_data.html?highlight=eegbci)
 
 
 
