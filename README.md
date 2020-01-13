@@ -50,7 +50,8 @@ fnames = eegbci.load_data(subject, runs)
 
 ### References
 
-1. For understanding dataset: [official documenetation](https://mne.tools/stable/generated/mne.datasets.eegbci.load_data.html?highlight=eegbci)
+1. For understanding dataset: [official documentation](https://mne.tools/stable/generated/mne.datasets.eegbci.load_data.html?highlight=eegbci)
+2. Understanding multi label classification: [Here](https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff)
 
 
 
