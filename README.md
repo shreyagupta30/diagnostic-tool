@@ -2,7 +2,7 @@
 
 ### Inputs
 1. EEG signals
-2. Peripheral hysiological signals
+2. Peripheral physiological signals
 3. Battery test
    
 ### Outputs
@@ -15,10 +15,10 @@
     * Arithematic tasks
     * Visual Tasks
     * Motor tasks
-2. Learned machine will then be used for Emotional Profiling.
+2. Learned machine will then be used for Emotional profiling.
 3. Hence, fine tuned machine by using ***transfer learning*** will be used to give ***muli-labelling output***.
 
-### tasks
+### Tasks
 
 #### Week1:
 
